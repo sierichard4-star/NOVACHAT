@@ -1,0 +1,8 @@
+{
+  "name": "NovaChat",
+  "description": "The all-in-one super app featuring encrypted chats, NovaPay digital wallet & MoMo, TikTok-style short videos, social feed, e-commerce marketplace, Nova Ride hailing, biometric security, and Nova AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
